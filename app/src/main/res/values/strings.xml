@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string-array name="guessWords">
+        <item>Awkward</item>
+        <item>Bagpipes</item>
+        <item>Banjo</item>
+        <item>Bungler</item>
+        <item>Croquet</item>
+        <item>Crypt</item>
+        <item>Dwarves</item>
+        <item>Fervid</item>
+        <item>Fishhook</item>
+        <item>Fjord</item>
+        <item>Gazebo</item>
+        <item>Gypsy</item>
+        <item>Haiku</item>
+        <item>Haphazard</item>
+        <item>Hyphen</item>
+        <item>Ivory</item>
+        <item>Jazzy</item>
+        <item>Jiffy</item>
+        <item>Jinx</item>
+        <item>Jukebox</item>
+        <item>Kayak</item>
+        <item>Kiosk</item>
+        <item>Klutz</item>
+        <item>Memento</item>
+        <item>Mystify</item>
+        <item>Numbskull</item>
+        <item>Ostracize</item>
+        <item>Oxygen</item>
+        <item>Pajama</item>
+        <item>Phlegm</item>
+        <item>Pixel</item>
+        <item>Polka</item>
+        <item>Quad</item>
+        <item>Quip</item>
+        <item>Rhythmic</item>
+        <item>Rogue</item>
+        <item>Sphinx</item>
+        <item>Squawk</item>
+        <item>Swivel</item>
+        <item>Toady</item>
+        <item>Twelfth</item>
+        <item>Unzip</item>
+        <item>Waxy</item>
+        <item>Wildebeest</item>
+        <item>Yacht</item>
+        <item>Zealous</item>
+        <item>Zigzag</item>
+        <item>Zippy</item>
+        <item>Zombie</item>
+    </string-array>
+</resources>
